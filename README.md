@@ -8,5 +8,5 @@ The repository contains my solution to the labs, homework and projects for UCB�
 
 1.   I didn’t complete all the extra and optional tasks 
 
-2.   If you have not completed the assignment, please don’t refer to the solution.
+2.   Please think for yourself, so don't copy any code!
 
