@@ -6,7 +6,6 @@ The repository contains my solution to the labs, homework and projects for UCB�
 
 #### PS:
 
-1.   I didn’t complete all the extra and optional tasks 
-
+1.   Due to the limited time and my statement, I didn’t complete all the tasks and most optional questions.
 2.   Please think for yourself, so don't copy any code!
 
